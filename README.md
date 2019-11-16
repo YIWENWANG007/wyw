@@ -27,7 +27,7 @@
 		System.out.println(y.toString());
 	}
 	catch(Exception e){
-		System.out.println("发生异常："+w.toString());
+		System.out.println("发生异常："+e.toString());
 	}	
 	}
 ```
